@@ -1,3 +1,0 @@
-- np.exp(x) works for any np.array x and applies the exponential function to every coordinate
-- Broadcasting, vectorization
-- Use np.sum, np.dot, np.multiply, np.maximum etc instead of python built in
